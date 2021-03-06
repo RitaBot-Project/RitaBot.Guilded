@@ -1,2 +1,1 @@
-# RitaBot-Py
-// test
+# RitaBot.Guilded
