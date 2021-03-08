@@ -12,7 +12,7 @@
 </p><br/><br/>
 
 
-<p align="center">An open-source, free Guilded Translator Bot built using <strong>google-translate-api</strong> and <strong>Guilded.py</strong>.</p>
+<p align="center">An open-source, free Guilded Translator Bot built using a custom <strong>google-translate-api-py</strong> and <strong>Guilded.py</strong>.</p>
 
 
 ##### If you like what we are doing, please [star](https://github.com/RitaBot-Project/RitaBot.Guilded/stargazers) our repo using the top-right star icon
