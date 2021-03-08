@@ -5,7 +5,7 @@
 ------
 
 <p align="center">
-<a href="https://www.guilded.gg/rita"><img src="https://img.shields.io/badge/Guilded_Support-JOIN-F5C400.svg?"></a> 
+<a href="https://www.guilded.gg?r=lAerMPX"><img src="https://img.shields.io/badge/Guilded_Support-JOIN-F5C400.svg?"></a> 
 <a href="https://opensource.org/licenses/MIT"> <img src="https://img.shields.io/github/license/ZyC0R3/RitaBot.svg"></a> 
 <a href="https://github.com/RitaBot-Project/RitaBot.Guilded/stargazers/"> <img src="https://img.shields.io/github/stars/RitaBot-Project/RitaBot.Guilded" href="https://github.com/RitaBot-Project/RitaBot.Guilded/stargazers"> </a>
 <a href="https://github.com/RitaBot-Project/RitaBot.Guilded/fork"> <img src="https://img.shields.io/badge/dynamic/json?color=success&label=forks&query=forks&url=https%3A%2F%2Fapi.github.com%2Frepos%2FRitaBot-Project%2FRitaBot.Guilded"> </a>
