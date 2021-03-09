@@ -10,6 +10,11 @@
 <a href="https://github.com/RitaBot-Project/RitaBot.Guilded/stargazers/"> <img src="https://img.shields.io/github/stars/RitaBot-Project/RitaBot.Guilded" href="https://github.com/RitaBot-Project/RitaBot.Guilded/stargazers"> </a>
 <a href="https://github.com/RitaBot-Project/RitaBot.Guilded/fork"> <img src="https://img.shields.io/badge/dynamic/json?color=success&label=forks&query=forks&url=https%3A%2F%2Fapi.github.com%2Frepos%2FRitaBot-Project%2FRitaBot.Guilded"> </a>
 </p><br/><br/>
+<p align="center"> 
+<img alt="open collective badge" src="https://opencollective.com/ritabot/tiers/supporter/badge.svg?label=Supporter&color=brightgreen" />
+<img alt="open collective badge" src="https://opencollective.com/ritabot/tiers/sponsor/badge.svg?label=Sponsor&color=brightgreen" />
+<img alt="open collective badge" src="https://opencollective.com/ritabot/tiers/backer/badge.svg?label=Backer&color=brightgreen" />
+</p><br/><br/>
 
 
 <p align="center">An open-source, free Guilded Translator Bot built using a custom <strong>google-translate-api-py</strong> and <strong>Guilded.py</strong>.</p>
